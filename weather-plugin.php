@@ -6,7 +6,7 @@ Plugin Name: Weather Plugin
  
 Plugin URI: https://github.com/amiealford/weather-plugin
  
-Description: Plugin to accompany tutsplus guide to creating plugins, registers a post type.
+Description: Weather Plugin.
  
 Version: 1.0
  
