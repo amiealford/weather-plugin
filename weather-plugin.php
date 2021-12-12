@@ -41,8 +41,8 @@ function get_user_ip() {
          $ip = $_SERVER['REMOTE_ADDR']; 
      } 
      
-    //  return $ip;
-    return '35.142.172.91';
+     return $ip;
+
 }
 
 function getLocationFromIp($ip) {
